@@ -11,6 +11,5 @@ App for the robot side of the ARC project. It is used to launch the ROS packages
 * Install wizard
 * Icon
 * Video stream display while launched
-* ROS command path (in case ROS is not included in the system's PATH variable)
 * Manage C++ packages (it should read both, Python and C++, but display clearly the difference in the interface, especially if the same name)
 * Add requirement to config files (e.g. a specific robot that works only with ROS as communication method)
